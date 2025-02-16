@@ -1,0 +1,38 @@
+# Node modules
+/node_modules
+
+# Dependencias instaladas
+npm-debug.log
+yarn-error.log
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Construcción de React (si se usa build o dist)
+build/
+dist/
+
+# Archivos de cache del navegador (si es necesario)
+.cache/
+
+# Sistema de logs
+*.log
+
+# Archivos temporales
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos de configuración de Storybook (si se usa)
+storybook-static/
+
+# Archivos de configuración de testing (si usas Jest o Mocha)
+coverage/
+
+.DS_Store

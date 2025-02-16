@@ -1,0 +1,29 @@
+# Node modules
+/node_modules
+
+# Dependencias instaladas
+npm-debug.log
+yarn-error.log
+
+# Archivos de entorno
+.env
+
+# Carpeta de compilación si se usa algún bundler
+/dist
+/build
+
+# Sistema de logs
+*.log
+
+# Sistema de base de datos local (si se tiene alguna base de datos local)
+*.sqlite
+*.db
+
+# Archivos temporales
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+.DS_Store

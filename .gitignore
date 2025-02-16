@@ -1,0 +1,22 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos temporales de compilación
+dist/
+build/
+
+# Archivos específicos de la base de datos
+*.sqlite
+
+# Archivos de configuración de Git
+.gitmodules
