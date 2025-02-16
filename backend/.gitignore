@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editor/IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environments
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build
+/build
+/dist
+/public/*.cache
+
+# React
+*.cache
+*.tmp
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+Dockerfile
+
+# Git
+.git/
+.gitignore
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
